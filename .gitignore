@@ -1,0 +1,6 @@
+node_modules/
+logs/*.log
+pm2-prod.json
+pm2-alpha.json
+dist/
+sshkey/
